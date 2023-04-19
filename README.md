@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I've over 2.5 years of software engineering experience with athenahealth and currently I'm pursuing a Master's in Computer Science at the University of Texas at Dallas. I'm actively looking for Summer 2023 Software Engineering / Product Management Internship opportunities.
+I've over 3 years of software engineering experience with athenahealth and currently I'm pursuing a Master's in Computer Science at the University of Texas at Dallas. I'm actively looking for Fall 2023 Software Engineering / Product Management Internship opportunities.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ajaykaarthic/)  
 
