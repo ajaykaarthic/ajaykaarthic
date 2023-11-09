@@ -5,7 +5,9 @@ I've over 3 years of software engineering experience with athenahealth and curre
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ajaykaarthic/)  
 
 [![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaykaarthic&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c30ac44e-528f-463d-9397-cb0a37b7d57e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+My certifications
+<img src="[BADGE_URL](https://www.credly.com/badges/c30ac44e-528f-463d-9397-cb0a37b7d57e/public_url)" alt="Badge Alt Text">
 <!--
 **ajaykaarthic/ajaykaarthic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
