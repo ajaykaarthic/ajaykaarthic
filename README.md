@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-With nearly three years of Software & Cloud Engineering experience, along with being an AWS Certified Solutions Architect Associate, I am enthusiastic about the potential for meaningful collaboration. Currently pursuing a MS @ UT Dallas, I am eager to connect and discuss opportunities.
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ajaykaarthic/)  
 
 [![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaykaarthic&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
